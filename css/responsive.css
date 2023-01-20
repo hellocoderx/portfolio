@@ -1,0 +1,149 @@
+@media screen and (max-width: 923px) {
+    .bold-part {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #full-part {
+        width: 100%;
+        height: auto;
+        padding: 60px;
+        overflow: hidden;
+    }
+    div#my-darkpart {
+        padding: 0px;
+    }
+    .my-colorpart {
+        padding: 5px;
+        padding-top: 87px;
+    }
+    h1.my-colorpart {
+        text-align: center;
+    }
+    h1.my-colorpart12 {
+        text-align: center;
+    }
+    span#typeed {
+        width: 100%;
+        text-align: center;
+        font-size: 25px;
+        height: 37px;
+    }
+    p.dark-text {
+        text-align: center;
+        width: 100%;
+    }
+    .pocc-tre {
+        margin: 0px auto;
+        display: block;
+    }
+    .box3 {
+        width: 30px;
+        height: 30px;
+    }
+    .box2 {
+        width: 20px;
+        height: 20px;
+    }
+    .box1 {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    #full-part {
+        width: 100%;
+        height: auto;
+        padding: 60px;
+        overflow: hidden;
+    }
+    div#my-darkpart {
+        padding: 0px;
+    }
+    .my-colorpart {
+        padding: 5px;
+        padding-top: 87px;
+    }
+    h1.my-colorpart {
+        text-align: center;
+    }
+    h1.my-colorpart12 {
+        text-align: center;
+    }
+    span#typeed {
+        width: 100%;
+        text-align: center;
+        font-size: 25px;
+        height: 37px;
+    }
+    p.dark-text {
+        text-align: center;
+        width: 100%;
+    }
+    .pocc-tre {
+        margin: 0px auto;
+        display: block;
+    }
+    .box3 {
+        width: 30px;
+        height: 30px;
+    }
+    .box2 {
+        width: 20px;
+        height: 20px;
+    }
+    .box1 {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width:610px) {
+    #full-part {
+        width: 100%;
+        height: auto;
+        padding: 60px;
+        overflow: hidden;
+    }
+    div#my-darkpart {
+        padding: 0px;
+    }
+    .my-colorpart {
+        padding: 5px;
+        padding-top: 87px;
+    }
+    h1.my-colorpart {
+        text-align: center;
+    }
+    h1.my-colorpart12 {
+        text-align: center;
+    }
+    span#typeed {
+        width: 100%;
+        text-align: center;
+        font-size: 25px;
+        height: 37px;
+    }
+    p.dark-text {
+        text-align: center;
+        width: 100%;
+    }
+    .pocc-tre {
+        margin: 0px auto;
+        display: block;
+    }
+    .box3 {
+        width: 35px;
+        height: 35px;
+    }
+    .box2 {
+        width: 25px;
+        height: 25px;
+    }
+    .box1 {
+        width: 30px;
+        height: 30px;
+    }
+}
